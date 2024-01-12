@@ -1,0 +1,5 @@
+field 10 10
+generate 1 4 2
+calculate
+rover 0 1 1 1 1
+processor 1 1 90 90

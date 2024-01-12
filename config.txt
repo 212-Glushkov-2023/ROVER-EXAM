@@ -1,0 +1,5 @@
+command_file = cmd.txt
+log_boundary = logb.txt
+log_control = logc.txt
+time = 0
+date = 0
